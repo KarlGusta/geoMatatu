@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "847016676784",
+    "firebase_url": "https://geomatatuapp-5c249.firebaseio.com",
+    "project_id": "geomatatuapp-5c249",
+    "storage_bucket": "geomatatuapp-5c249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847016676784:android:77c1d6f951da26ca",
+        "android_client_info": {
+          "package_name": "com.example.karlgusta.geomatatu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847016676784-taghqih4rqfiprdg7n7vph4aelc49r5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karlgusta.geomatatu",
+            "certificate_hash": "97d7476b9616da467ce96f70c0409c3b5b102020"
+          }
+        },
+        {
+          "client_id": "847016676784-gnad9hcoegdvpcvj52b90rdferu2369f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYjHmWY2cX9b5NeCBBed1UmR6JQ1ADOIk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847016676784-gnad9hcoegdvpcvj52b90rdferu2369f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
